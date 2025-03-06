@@ -1,0 +1,15 @@
+C:\Users\alex.araujo\source\repos\Projeto Teste Entra21 GitHub\Projeto Teste Entra21 GitHub\bin\Debug\net7.0\Projeto Teste Entra21 GitHub.exe
+C:\Users\alex.araujo\source\repos\Projeto Teste Entra21 GitHub\Projeto Teste Entra21 GitHub\bin\Debug\net7.0\Projeto Teste Entra21 GitHub.deps.json
+C:\Users\alex.araujo\source\repos\Projeto Teste Entra21 GitHub\Projeto Teste Entra21 GitHub\bin\Debug\net7.0\Projeto Teste Entra21 GitHub.runtimeconfig.json
+C:\Users\alex.araujo\source\repos\Projeto Teste Entra21 GitHub\Projeto Teste Entra21 GitHub\bin\Debug\net7.0\Projeto Teste Entra21 GitHub.dll
+C:\Users\alex.araujo\source\repos\Projeto Teste Entra21 GitHub\Projeto Teste Entra21 GitHub\bin\Debug\net7.0\Projeto Teste Entra21 GitHub.pdb
+C:\Users\alex.araujo\source\repos\Projeto Teste Entra21 GitHub\Projeto Teste Entra21 GitHub\obj\Debug\net7.0\Projeto Teste Entra21 GitHub.csproj.AssemblyReference.cache
+C:\Users\alex.araujo\source\repos\Projeto Teste Entra21 GitHub\Projeto Teste Entra21 GitHub\obj\Debug\net7.0\Projeto Teste Entra21 GitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.araujo\source\repos\Projeto Teste Entra21 GitHub\Projeto Teste Entra21 GitHub\obj\Debug\net7.0\Projeto Teste Entra21 GitHub.AssemblyInfoInputs.cache
+C:\Users\alex.araujo\source\repos\Projeto Teste Entra21 GitHub\Projeto Teste Entra21 GitHub\obj\Debug\net7.0\Projeto Teste Entra21 GitHub.AssemblyInfo.cs
+C:\Users\alex.araujo\source\repos\Projeto Teste Entra21 GitHub\Projeto Teste Entra21 GitHub\obj\Debug\net7.0\Projeto Teste Entra21 GitHub.csproj.CoreCompileInputs.cache
+C:\Users\alex.araujo\source\repos\Projeto Teste Entra21 GitHub\Projeto Teste Entra21 GitHub\obj\Debug\net7.0\Projeto Teste Entra21 GitHub.dll
+C:\Users\alex.araujo\source\repos\Projeto Teste Entra21 GitHub\Projeto Teste Entra21 GitHub\obj\Debug\net7.0\refint\Projeto Teste Entra21 GitHub.dll
+C:\Users\alex.araujo\source\repos\Projeto Teste Entra21 GitHub\Projeto Teste Entra21 GitHub\obj\Debug\net7.0\Projeto Teste Entra21 GitHub.pdb
+C:\Users\alex.araujo\source\repos\Projeto Teste Entra21 GitHub\Projeto Teste Entra21 GitHub\obj\Debug\net7.0\Projeto Teste Entra21 GitHub.genruntimeconfig.cache
+C:\Users\alex.araujo\source\repos\Projeto Teste Entra21 GitHub\Projeto Teste Entra21 GitHub\obj\Debug\net7.0\ref\Projeto Teste Entra21 GitHub.dll

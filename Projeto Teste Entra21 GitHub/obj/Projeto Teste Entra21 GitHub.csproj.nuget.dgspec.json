@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alex.araujo\\source\\repos\\AtividadesEntra21\\Projeto Teste Entra21 GitHub\\Projeto Teste Entra21 GitHub\\Projeto Teste Entra21 GitHub.csproj": {}
+    "C:\\Users\\alex.araujo\\source\\repos\\Projeto Teste Entra21 GitHub\\Projeto Teste Entra21 GitHub\\Projeto Teste Entra21 GitHub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alex.araujo\\source\\repos\\AtividadesEntra21\\Projeto Teste Entra21 GitHub\\Projeto Teste Entra21 GitHub\\Projeto Teste Entra21 GitHub.csproj": {
+    "C:\\Users\\alex.araujo\\source\\repos\\Projeto Teste Entra21 GitHub\\Projeto Teste Entra21 GitHub\\Projeto Teste Entra21 GitHub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alex.araujo\\source\\repos\\AtividadesEntra21\\Projeto Teste Entra21 GitHub\\Projeto Teste Entra21 GitHub\\Projeto Teste Entra21 GitHub.csproj",
+        "projectUniqueName": "C:\\Users\\alex.araujo\\source\\repos\\Projeto Teste Entra21 GitHub\\Projeto Teste Entra21 GitHub\\Projeto Teste Entra21 GitHub.csproj",
         "projectName": "Projeto Teste Entra21 GitHub",
-        "projectPath": "C:\\Users\\alex.araujo\\source\\repos\\AtividadesEntra21\\Projeto Teste Entra21 GitHub\\Projeto Teste Entra21 GitHub\\Projeto Teste Entra21 GitHub.csproj",
+        "projectPath": "C:\\Users\\alex.araujo\\source\\repos\\Projeto Teste Entra21 GitHub\\Projeto Teste Entra21 GitHub\\Projeto Teste Entra21 GitHub.csproj",
         "packagesPath": "C:\\Users\\alex.araujo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alex.araujo\\source\\repos\\AtividadesEntra21\\Projeto Teste Entra21 GitHub\\Projeto Teste Entra21 GitHub\\obj\\",
+        "outputPath": "C:\\Users\\alex.araujo\\source\\repos\\Projeto Teste Entra21 GitHub\\Projeto Teste Entra21 GitHub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
